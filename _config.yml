@@ -1,0 +1,8 @@
+permalink: /:year/:month/:title/
+url: http://www.ctrip.com
+author: sambafeng
+highlighter: rouge
+timezone: Asia/Shanghai
+gems: [jekyll-paginate]
+paginate: 24
+baseurl: "/blog"
