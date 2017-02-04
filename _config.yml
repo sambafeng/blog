@@ -1,5 +1,5 @@
 permalink: /:year/:month/:title/
-url: http://www.ctrip.com
+url: https://sambafeng.github.io/blog
 author: sambafeng
 highlighter: rouge
 timezone: Asia/Shanghai
